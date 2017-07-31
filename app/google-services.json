@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043907327259",
+    "firebase_url": "https://sowetoapp10.firebaseio.com",
+    "project_id": "sowetoapp10",
+    "storage_bucket": "sowetoapp10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043907327259:android:054ee981c76b7073",
+        "android_client_info": {
+          "package_name": "com.example.khutsomatlala.sowetoapp10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043907327259-47im0qoul1ciieul92ooao6acseso4qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khutsomatlala.sowetoapp10",
+            "certificate_hash": "e241e80ad5f4c6afcf8b61a54f07d985d685fe0d"
+          }
+        },
+        {
+          "client_id": "1043907327259-q92he1c3jlb73vu2qrk7c30i35vp5uvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb86God23BPwoslR5HEy6V1g_CtOVGyIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043907327259-q92he1c3jlb73vu2qrk7c30i35vp5uvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
